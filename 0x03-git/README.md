@@ -1,1 +1,2 @@
-Nzerachi_writing
+Nzerachi_writing...
+Just playing around with the Linux
